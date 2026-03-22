@@ -18,7 +18,7 @@ Sorularınız veya kullanım izni talepleriniz için lütfen doğrudan depo sahi
 
 © 2026 Miraç Evden Eve Nakliye (Miraç Depolama) Tüm hakları saklıdır.
 
-Geliştiri : Keops Games & Software Studios
+Geliştirici : Keops Games & Software Studios
 
 # English Version (Global Uyumluluk İçin) License - Private Use Only
 
